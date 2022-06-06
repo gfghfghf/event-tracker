@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="NOW HELP Config">3ea4b9e8cb6301108cd75bb10e131c0a</app_config>
+        <description/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">36a4b9e861630110c2addf82b39e1209</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 17:09:34</sys_created_on>
+        <sys_id>baa4b9e8806301102dc3a28817d2b809</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="NOW HELP" source="x_587101_now_help">14f335a82f630110b2a5f7ecf699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW HELP">14f335a82f630110b2a5f7ecf699b617</sys_scope>
+        <sys_update_name>sys_ux_app_route_baa4b9e8806301102dc3a28817d2b809</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-15 17:09:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=baa4b9e8806301102dc3a28817d2b809"/>
+</record_update>

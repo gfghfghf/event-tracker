@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="NOW HELP">7ea4b9e8916301104f9319cab5e0bb0a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 17:09:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b2a4b9e89663011070545bf20932ed08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="NOW HELP" source="x_587101_now_help">14f335a82f630110b2a5f7ecf699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW HELP">14f335a82f630110b2a5f7ecf699b617</sys_scope>
+        <sys_update_name>sys_ux_page_property_b2a4b9e89663011070545bf20932ed08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-15 17:09:33</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_587101_now_help.7ea4b9e8916301104f9319cab5e0bb0a.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b2a4b9e89663011070545bf20932ed08"/>
+</record_update>

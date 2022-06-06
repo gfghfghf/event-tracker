@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 17:09:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bea4b9e89f630110620003becfe1dd0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NOW HELP" source="x_587101_now_help">14f335a82f630110b2a5f7ecf699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW HELP">14f335a82f630110b2a5f7ecf699b617</sys_scope>
+        <sys_update_name>m2m_app_config_theme_bea4b9e89f630110620003becfe1dd0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-15 17:09:33</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">32a4b9e876630110552bb0bf10b6fd0b</theme>
+        <ux_app_configuration display_value="NOW HELP Config">3ea4b9e8cb6301108cd75bb10e131c0a</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

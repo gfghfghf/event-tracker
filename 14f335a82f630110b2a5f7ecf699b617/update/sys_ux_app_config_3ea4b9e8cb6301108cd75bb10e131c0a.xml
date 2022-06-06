@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon>5ca54b452fab0110b2a5f7ecf699b66a</custom_icon>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>NOW HELP Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 17:09:32</sys_created_on>
+        <sys_id>3ea4b9e8cb6301108cd75bb10e131c0a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NOW HELP Config</sys_name>
+        <sys_package display_value="NOW HELP" source="x_587101_now_help">14f335a82f630110b2a5f7ecf699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW HELP">14f335a82f630110b2a5f7ecf699b617</sys_scope>
+        <sys_update_name>sys_ux_app_config_3ea4b9e8cb6301108cd75bb10e131c0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 12:20:13</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ea4b9e8cb6301108cd75bb10e131c0a"/>
+</record_update>
